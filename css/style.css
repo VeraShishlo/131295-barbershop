@@ -14,3 +14,84 @@ p {
 	color: #000000;
 	font-family: PT Sans Narrow Bold;
 }
+
+.features-item {
+    display: inline-block;
+    background-color: #A4A4A4;
+    width: 300px;
+    vertical-align: top;
+}
+
+.index-content-left {
+    display: inline-block;
+    background-color: #81DAF5;
+    width: 450px;
+    vertical-align: top;
+}
+
+.index-content-right {
+    display: inline-block;
+    background-color: #81DAF5;
+    width: 450px;
+    vertical-align: top;
+}
+
+.footer-contacts {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 300px;
+    vertical-align: top;
+}
+
+.footer-social {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 300px;
+    vertical-align: top;
+}
+
+.footer-copyright {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 300px;
+    vertical-align: top;
+}
+
+.sort {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 300px;
+    vertical-align: top;
+}
+
+.products{
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 450px;
+    vertical-align: top;
+}
+
+.price-sheet-left {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 450px;
+    vertical-align: top;
+}
+.price-sheet-right {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 450px;
+    vertical-align: top;
+}
+.product-column-left {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 450px;
+    vertical-align: top;
+}
+.product-column-right {
+    display: inline-block;
+    background-color: #F2F5A9;
+    width: 450px;
+    vertical-align: top;
+}
