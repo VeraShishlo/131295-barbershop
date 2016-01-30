@@ -1,28 +1,16 @@
 body {
-	font-size: 14px;
-	line-height: 30px;
-	color: #000000;
-	font-family: roboto medium;
+    font-size: 16px;
+	color: #ffffff;
+	font-family: PT Sans Narrow Bold;
 }
 
-h1 {
-	font-size: 36px;
-	line-height: 36px;
+h2 {
+    font-size: 30px;
 	color: #000000;
-	font-family: roboto medium;
+	font-family: PT Sans Narrow Bold;
 }
-
-strong {
-	font-size: 36px;
-	line-height: 36px;
-	color: #000000;
-	font-family: roboto medium;
-}
-
 p {
-	font-size: 16px;
-	line-height: 22px;
+	font-size: 14px;
 	color: #000000;
-	font-family: roboto medium;
+	font-family: PT Sans Narrow Bold;
 }
-
