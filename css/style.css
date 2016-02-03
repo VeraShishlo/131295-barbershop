@@ -1,97 +1,101 @@
 body {
     font-size: 16px;
-	color: #ffffff;
+	color: #fff;
 	font-family: PT Sans Narrow Bold;
 }
 
 h2 {
     font-size: 30px;
-	color: #000000;
-	font-family: PT Sans Narrow Bold;
+	color: #000;
 }
 p {
 	font-size: 14px;
-	color: #000000;
-	font-family: PT Sans Narrow Bold;
+	color: #000;
+}
+
+.container {
+	width: 900px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .features-item {
     display: inline-block;
+    vertical-align: top;
     background-color: #A4A4A4;
     width: 300px;
-    vertical-align: top;
 }
 
 .index-content-left {
     display: inline-block;
+    vertical-align: top;
     background-color: #81DAF5;
     width: 450px;
-    vertical-align: top;
 }
 
 .index-content-right {
     display: inline-block;
+    vertical-align: top;
     background-color: #81DAF5;
     width: 450px;
-    vertical-align: top;
 }
 
 .footer-contacts {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 300px;
-    vertical-align: top;
 }
 
 .footer-social {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 300px;
-    vertical-align: top;
 }
 
 .footer-copyright {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 300px;
-    vertical-align: top;
 }
 
 .sort {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 300px;
-    vertical-align: top;
 }
 
 .products{
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 450px;
-    vertical-align: top;
 }
 
 .price-sheet-left {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 450px;
-    vertical-align: top;
 }
 .price-sheet-right {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 450px;
-    vertical-align: top;
 }
 .product-column-left {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 450px;
-    vertical-align: top;
 }
 .product-column-right {
     display: inline-block;
+    vertical-align: top;
     background-color: #F2F5A9;
     width: 450px;
-    vertical-align: top;
 }
